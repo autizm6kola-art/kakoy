@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/istorii_kakoy/static/css/main.41ac5593.css",
+    "main.js": "/istorii_kakoy/static/js/main.93f72dcb.js",
+    "static/js/453.d37bcb50.chunk.js": "/istorii_kakoy/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/istorii_kakoy/index.html",
+    "main.41ac5593.css.map": "/istorii_kakoy/static/css/main.41ac5593.css.map",
+    "main.93f72dcb.js.map": "/istorii_kakoy/static/js/main.93f72dcb.js.map",
+    "453.d37bcb50.chunk.js.map": "/istorii_kakoy/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ac5593.css",
+    "static/js/main.93f72dcb.js"
+  ]
+}
