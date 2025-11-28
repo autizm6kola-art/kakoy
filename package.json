@@ -2,7 +2,7 @@
   "name": "zad1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://autizm6kola-art.github.io/istorii_kakoy",
+  "homepage": "https://autizm6kola-art.github.io/kakoy",
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
     "@testing-library/dom": "^10.4.1",
